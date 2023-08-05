@@ -5,5 +5,5 @@ Condition of use link  = search (By XPATH, "//a[@href='/gp/aw/help/ref=ap_mobile
 Privacy Notice. =search (By XPATH, "//a[@href='/gp/aw/help/ref=ap_mobile_register_notification_privacy_notice?id=468496']")
 
 Need help link =search (By XPATH,  "//a[@span [class='a-expander-prompt']")
-Forgot password link search (By ID, id='auth-fpp-link-bottom')
+Forgot password link search (By I.D, 'auth-fpp-link-bottom')
 Create your Amazon account  = search (By XPATH, "//span[@class='a-size-base a-text-bold']")
